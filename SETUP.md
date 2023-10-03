@@ -1,11 +1,11 @@
 # Developer Environment Setup and Prerequisites for OptimizeAI
 
 
-### 0) Change shell to bash
+### 1) Change shell to bash (Optional, Recommended)
 
 chsh -s /bin/bash
 
-### 0.1) Install brew
+### 2) Install brew
 
 https://brew.sh
 
@@ -13,7 +13,7 @@ https://brew.sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### 0.2) Setup SSH for Bitbucket and Github
+### 3) Setup SSH for Bitbucket and Github
 
 https://support.atlassian.com/bitbucket-cloud/docs/set-up-personal-ssh-keys-on-macos/
 
@@ -21,13 +21,13 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui
 
-### 0.3) Clone projectdocs
+### 4) Clone projectdocs
 
-### 0.4) Download and install AndroidStudio
+### 4) Download and install AndroidStudio
 
-### 0.5) Download and install Xcode
+### 5) Download and install Xcode
 
-### 1) Chrome
+### 6) Chrome
 
 Install Chrome
 
