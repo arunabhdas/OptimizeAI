@@ -1,4 +1,5 @@
-# OptimizeAI | Developer Environment Setup and Prerequisites for OptimizeKit
+# OptimizeAI
+Developer Environment Setup and Prerequisites for OptimizeKit
 
 
 # Overview
