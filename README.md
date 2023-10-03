@@ -1,9 +1,9 @@
-# OptimizeKit | Developer Environment Setup and Prerequisites for OptimizeKit
+# OptimizeAI | Developer Environment Setup and Prerequisites for OptimizeKit
 
 
-Overview
+# Overview
 
-OptimizeKit is a set of coding recipes, developer guidelines, industry standard best practices and design patterns that supercharge workflows for software engineers and developers
+OptimizeAI is a set of coding recipes, developer guidelines, industry standard best practices and design patterns that supercharge workflows for software engineers and developers
 Repo
 
 The repo for OptimizeKit can be found below
